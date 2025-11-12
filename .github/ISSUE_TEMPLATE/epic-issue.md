@@ -1,6 +1,6 @@
 ---
 name: Epic issue
-about: Epic 단위 브랜치 관리
+about: Epic 단위 통합 관리
 title: Epic명
 labels: epic
 assignees: ''
